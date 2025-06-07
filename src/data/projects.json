@@ -36,6 +36,7 @@
       "description": "Plateforme de streaming vidéo et de contenu multimédia.",
       "technologies": ["React", "Node.js", "AWS", "FFmpeg"],
       "images": [
+        "/images/audiance/audiance_1.PNG",
         "/images/audiance/audiance_video.mp4"
       ],
       "liveUrl": "https://audiance.com",
@@ -69,6 +70,48 @@
       ],
       "liveUrl": "https://mesptitespensees.com",
       "githubUrl": "https://github.com/username/mesptitespensees",
+      "featured": false
+    },
+    {
+      "id": "6",
+      "title": "Yoann Coach",
+      "description": "Site web professionnel pour un coach sportif, incluant la présentation des services et la prise de rendez-vous.",
+      "technologies": ["React", "Tailwind CSS", "Node.js"],
+      "images": [
+        "/images/yoanncoach/yoan1.PNG",
+        "/images/yoanncoach/yoan2.PNG",
+        "/images/yoanncoach/yoan3.PNG"
+      ],
+      "liveUrl": "https://yoanncoach.com",
+      "githubUrl": "https://github.com/username/yoanncoach",
+      "featured": false
+    },
+    {
+      "id": "7",
+      "title": "La Durso",
+      "description": "Site vitrine pour une entreprise de rénovation et décoration d'intérieur.",
+      "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+      "images": [
+        "/images/ladurso/Ladurso.PNG",
+        "/images/ladurso/Ladurso-2.PNG",
+        "/images/ladurso/Ladurso-3.PNG"
+      ],
+      "liveUrl": "https://ladurso.com",
+      "githubUrl": "https://github.com/username/ladurso",
+      "featured": true
+    },
+    {
+      "id": "8",
+      "title": "Dashboard Ailem",
+      "description": "Tableau de bord administratif pour la gestion des ressources et le suivi des activités.",
+      "technologies": ["React", "TypeScript", "Material-UI", "Redux"],
+      "images": [
+        "/images/dashboardailem/dashboard_1.PNG",
+        "/images/dashboardailem/dashboard_2.PNG",
+        "/images/dashboardailem/dashboard_3.PNG"
+      ],
+      "liveUrl": "https://dashboard.ailem.com",
+      "githubUrl": "https://github.com/username/dashboardailem",
       "featured": false
     }
   ]
