@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "id": "1",
+      "title": "Global Dermatology",
+      "description": "Plateforme de gestion et de formation pour les dermatologues, incluant un système ERP et une gestion des événements.",
+      "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+      "images": [
+        "/images/globaldermatology/globaldermatology_home.PNG",
+        "/images/globaldermatology/globaldermatology_event.PNG",
+        "/images/globaldermatology/globaldermatology_course.PNG",
+        "/images/globaldermatology/globaldermatology_ERP.PNG"
+      ],
+      "liveUrl": "https://globaldermatology.com",
+      "githubUrl": "https://github.com/username/globaldermatology",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Mon Échappée Belle",
+      "description": "Application de voyage et de découverte de destinations, permettant aux utilisateurs de planifier leurs aventures.",
+      "technologies": ["React Native", "Firebase", "Google Maps API"],
+      "images": [
+        "/images/monechappeebelle/monechappeebelle_1.PNG",
+        "/images/monechappeebelle/monechappeebelle_2.PNG",
+        "/images/monechappeebelle/monechappeebelle_3.PNG",
+        "/images/monechappeebelle/monechappeebelle_4.PNG"
+      ],
+      "liveUrl": "https://monechappeebelle.com",
+      "githubUrl": "https://github.com/username/monechappeebelle",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Audiance",
+      "description": "Plateforme de streaming vidéo et de contenu multimédia.",
+      "technologies": ["React", "Node.js", "AWS", "FFmpeg"],
+      "images": [
+        "/images/audiance/audiance_video.mp4"
+      ],
+      "liveUrl": "https://audiance.com",
+      "githubUrl": "https://github.com/username/audiance",
+      "featured": false
+    },
+    {
+      "id": "4",
+      "title": "CPTS",
+      "description": "Application de gestion et de suivi des patients pour les professionnels de santé.",
+      "technologies": ["Vue.js", "Express", "PostgreSQL"],
+      "images": [
+        "/images/cpts/cpts_1.PNG",
+        "/images/cpts/cpts_2.PNG",
+        "/images/cpts/cpts_3.PNG",
+        "/images/cpts/cpts_4.PNG"
+      ],
+      "liveUrl": "https://cpts.com",
+      "githubUrl": "https://github.com/username/cpts",
+      "featured": true
+    },
+    {
+      "id": "5",
+      "title": "Mes Petites Pensées",
+      "description": "Application de journal personnel et de réflexion quotidienne.",
+      "technologies": ["React", "Firebase", "Tailwind CSS"],
+      "images": [
+        "/images/mesptitespensees/mesptitespensees_1.PNG",
+        "/images/mesptitespensees/mesptitespensees_2.PNG",
+        "/images/mesptitespensees/mesptitespensees_3.PNG"
+      ],
+      "liveUrl": "https://mesptitespensees.com",
+      "githubUrl": "https://github.com/username/mesptitespensees",
+      "featured": false
+    }
+  ]
+} 
