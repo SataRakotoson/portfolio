@@ -106,13 +106,42 @@
       "description": "Tableau de bord administratif pour la gestion des ressources et le suivi des activités.",
       "technologies": ["React", "TypeScript", "Material-UI", "Redux"],
       "images": [
+        "/images/dashboardailem/dashboard_3.PNG",
         "/images/dashboardailem/dashboard_1.PNG",
-        "/images/dashboardailem/dashboard_2.PNG",
-        "/images/dashboardailem/dashboard_3.PNG"
+        "/images/dashboardailem/dashboard_2.PNG"
       ],
       "liveUrl": "https://dashboard.ailem.com",
       "githubUrl": "https://github.com/username/dashboardailem",
       "featured": false
+    },
+    {
+      "id": "9",
+      "title": "Onexus",
+      "description": "Plateforme de gestion et d'optimisation des processus d'entreprise.",
+      "technologies": ["React", "TypeScript", "Node.js", "MongoDB"],
+      "images": [
+        "/images/onexus/onexus_1.PNG",
+        "/images/onexus/onexus_2.PNG",
+        "/images/onexus/onexus_3.PNG"
+      ],
+      "liveUrl": "https://onexus.com",
+      "githubUrl": "https://github.com/username/onexus",
+      "featured": true
+    },
+    {
+      "id": "10",
+      "title": "Mianava",
+      "description": "Application de gestion immobilière et de location de biens.",
+      "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+      "images": [
+        "/images/mianava/mianava_1.PNG",
+        "/images/mianava/mianava_2.PNG",
+        "/images/mianava/mianava_3.PNG",
+        "/images/mianava/mianava_4.PNG"
+      ],
+      "liveUrl": "https://mianava.com",
+      "githubUrl": "https://github.com/username/mianava",
+      "featured": true
     }
   ]
 } 
