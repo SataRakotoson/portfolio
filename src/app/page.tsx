@@ -20,6 +20,13 @@ export default function Home() {
         </div>
         <UxDesignGallery />
         <VisualDesignGallery />
+
+        
+
+        <div className="text-center text-gray-500 mt-12">
+          The above representations are some of the projects I’ve worked on. Feel free to contact me to see more. 😄
+        <br />👉 rakotosonsata@gmail.com
+        </div>
       </div>
     </main>
   );

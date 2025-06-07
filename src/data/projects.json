@@ -55,7 +55,8 @@
       ],
       "liveUrl": "",
       "githubUrl": "https://github.com/username/audiance",
-      "featured": false
+      "featured": false,
+      "preview":"/videos/audiance.mp4"
     },
     {
       "id": "4",
@@ -98,7 +99,8 @@
       ],
       "liveUrl": "",
       "githubUrl": "https://github.com/username/yoanncoach",
-      "featured": false
+      "featured": false,
+      "preview":"/videos/yoanncoach.mp4"
     },
     {
       "id": "7",
@@ -141,7 +143,8 @@
       ],
       "liveUrl": "",
       "githubUrl": "https://github.com/username/mianava",
-      "featured": true
+      "featured": true,
+      "preview":"/videos/mianava.mp4"
     }
   ]
 } 
