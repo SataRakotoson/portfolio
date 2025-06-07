@@ -1,4 +1,6 @@
 import ProjectCard from '@/components/ProjectCard';
+import VisualDesignGallery from '@/components/VisualDesignGallery';
+import UxDesignGallery from '@/components/UxDesignGallery';
 import { Project } from '@/types/project';
 import projectsData from '@/data/projects.json';
 
@@ -16,6 +18,8 @@ export default function Home() {
             <ProjectCard key={project.id} project={project} />
           ))}
         </div>
+        <VisualDesignGallery />
+        <UxDesignGallery />
       </div>
     </main>
   );
