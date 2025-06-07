@@ -64,8 +64,8 @@ const VisualDesignGallery = () => {
 
   return (
     <div className="mt-16">
-      <h2 className="text-4xl font-bold text-center mb-12">
-        Design Visuel
+      <h2 className="text-4xl font-bold text-center mb-12 title">
+        Visual Design
       </h2>
       <div className="columns-1 md:columns-2 lg:columns-3 gap-4 space-y-4">
         {images.map((image, index) => (

@@ -35,3 +35,7 @@ body {
 .swiper-pagination-bullet-active {
   background: var(--swiper-pagination-color) !important;
 }
+
+.title {
+  color:#222128
+}
