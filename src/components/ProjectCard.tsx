@@ -52,10 +52,10 @@ export default function ProjectCard({ project }: ProjectCardProps) {
                 rel="noopener noreferrer"
                 className="text-blue-600 hover:text-blue-800"
               >
-                Voir le site
+                See the website
               </a>
             )}
-            {project.githubUrl && (
+            {/* {project.githubUrl && (
               <a
                 href={project.githubUrl}
                 target="_blank"
@@ -64,7 +64,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
               >
                 GitHub
               </a>
-            )}
+            )} */}
           </div>
         </div>
       </div>

@@ -3,94 +3,108 @@
     {
       "id": "1",
       "title": "Global Dermatology",
-      "description": "Plateforme de gestion et de formation pour les dermatologues, incluant un système ERP et une gestion des événements.",
-      "technologies": ["React", "Node.js", "MongoDB", "Stripe"],
+      "description": "Global Dermatology is an international e-learning platform specialized in dermatology, designed for dermatology professionals.",
+      "technologies": ["NextJs", "OpenAI", "Supabase", "Python"],
       "images": [
         "/images/globaldermatology/globaldermatology_home.PNG",
         "/images/globaldermatology/globaldermatology_event.PNG",
         "/images/globaldermatology/globaldermatology_course.PNG",
         "/images/globaldermatology/globaldermatology_ERP.PNG"
       ],
-      "liveUrl": "https://globaldermatology.com",
+      "liveUrl": "https://www.global-dermatology.com",
       "githubUrl": "https://github.com/username/globaldermatology",
+      "featured": true
+    },
+    {
+      "id": "9",
+      "title": "Onexus",
+      "description": "This website is the Onexus landing page, showing its activities and offering a way to book a slot. ",
+      "technologies": ["React", "TypeScript", "Node.js", "MongoDB"],
+      "images": [
+        "/images/onexus/onexus_1.PNG",
+        "/images/onexus/onexus_2.PNG",
+        "/images/onexus/onexus_3.PNG"
+      ],
+      "liveUrl": "https://app.onexus.tech",
+      "githubUrl": "https://github.com/username/onexus",
       "featured": true
     },
     {
       "id": "2",
       "title": "Mon Échappée Belle",
-      "description": "Application de voyage et de découverte de destinations, permettant aux utilisateurs de planifier leurs aventures.",
-      "technologies": ["React Native", "Firebase", "Google Maps API"],
+      "description": "Mon échappée belle is a beauty salon based in Gaillac, offering skincare and wellness treatments. Its website combines a showcase with an online booking system.",
+      "technologies": ["VueJs", "Symfony"],
       "images": [
         "/images/monechappeebelle/monechappeebelle_1.PNG",
         "/images/monechappeebelle/monechappeebelle_2.PNG",
         "/images/monechappeebelle/monechappeebelle_3.PNG",
         "/images/monechappeebelle/monechappeebelle_4.PNG"
       ],
-      "liveUrl": "https://monechappeebelle.com",
+      "liveUrl": "https://monechappeebelle.fr",
       "githubUrl": "https://github.com/username/monechappeebelle",
       "featured": true
     },
     {
       "id": "3",
       "title": "Audiance",
-      "description": "Plateforme de streaming vidéo et de contenu multimédia.",
-      "technologies": ["React", "Node.js", "AWS", "FFmpeg"],
+      "description": "Audiance is the showcase site of an event-tech provider in Rhône-Alpes offering sound, lighting, video, staging services, rental and sales.",
+      "technologies": ["Elementor", "Wordpress"],
       "images": [
         "/images/audiance/audiance_1.PNG",
         "/images/audiance/audiance_video.mp4"
       ],
-      "liveUrl": "https://audiance.com",
+      "liveUrl": "",
       "githubUrl": "https://github.com/username/audiance",
       "featured": false
     },
     {
       "id": "4",
       "title": "CPTS",
-      "description": "Application de gestion et de suivi des patients pour les professionnels de santé.",
-      "technologies": ["Vue.js", "Express", "PostgreSQL"],
+      "description": "CPTS is a management site for regional health professionals’ network and patient of OuestLyonnais.",
+      "technologies": ["Vuejs", "Symfony", "Docker", "Bitbucket"],
       "images": [
         "/images/cpts/cpts_1.PNG",
         "/images/cpts/cpts_2.PNG",
         "/images/cpts/cpts_3.PNG",
         "/images/cpts/cpts_4.PNG"
       ],
-      "liveUrl": "https://cpts.com",
+      "liveUrl": "https://annuaire.cpts-ouestlyonnais.fr",
       "githubUrl": "https://github.com/username/cpts",
       "featured": true
     },
     {
       "id": "5",
-      "title": "Mes Petites Pensées",
-      "description": "Application de journal personnel et de réflexion quotidienne.",
-      "technologies": ["React", "Firebase", "Tailwind CSS"],
+      "title": "Mes P'tites Pensées",
+      "description": "Mes p'tites pensées is an e-commerce site selling jewelry and accessories made from dried flowers.",
+      "technologies": ["Webflow", "Finsweet", "Stripe"],
       "images": [
         "/images/mesptitespensees/mesptitespensees_1.PNG",
         "/images/mesptitespensees/mesptitespensees_2.PNG",
         "/images/mesptitespensees/mesptitespensees_3.PNG"
       ],
-      "liveUrl": "https://mesptitespensees.com",
+      "liveUrl": "https://mesptitespensees.fr",
       "githubUrl": "https://github.com/username/mesptitespensees",
       "featured": false
     },
     {
       "id": "6",
       "title": "Yoann Coach",
-      "description": "Site web professionnel pour un coach sportif, incluant la présentation des services et la prise de rendez-vous.",
-      "technologies": ["React", "Tailwind CSS", "Node.js"],
+      "description": "Professional website for a sports coach, including presentation of services and contact information",
+      "technologies": ["Bootstrap", "Html", "css", "Javascript"],
       "images": [
         "/images/yoanncoach/yoan1.PNG",
         "/images/yoanncoach/yoan2.PNG",
         "/images/yoanncoach/yoan3.PNG"
       ],
-      "liveUrl": "https://yoanncoach.com",
+      "liveUrl": "",
       "githubUrl": "https://github.com/username/yoanncoach",
       "featured": false
     },
     {
       "id": "7",
-      "title": "La Durso",
-      "description": "Site vitrine pour une entreprise de rénovation et décoration d'intérieur.",
-      "technologies": ["React", "Tailwind CSS", "Framer Motion"],
+      "title": "LaDurso",
+      "description": "This website represents the works of the artist Ladurso, including a means of purchasing her products. Minimalist design.",
+      "technologies": ["Bootstrap", "Stripe"],
       "images": [
         "/images/ladurso/Ladurso.PNG",
         "/images/ladurso/Ladurso-2.PNG",
@@ -103,43 +117,29 @@
     {
       "id": "8",
       "title": "Dashboard Ailem",
-      "description": "Tableau de bord administratif pour la gestion des ressources et le suivi des activités.",
-      "technologies": ["React", "TypeScript", "Material-UI", "Redux"],
+      "description": "This web application is used to manage all the content of ailem's customer sites: product management, reservations, users, etc.",
+      "technologies": ["Bootstrap-Vue", "Vue-cal", "Symfony", "Vuex"],
       "images": [
         "/images/dashboardailem/dashboard_3.PNG",
         "/images/dashboardailem/dashboard_1.PNG",
         "/images/dashboardailem/dashboard_2.PNG"
       ],
-      "liveUrl": "https://dashboard.ailem.com",
+      "liveUrl": "https://dashboard.ailem.fr",
       "githubUrl": "https://github.com/username/dashboardailem",
       "featured": false
     },
     {
-      "id": "9",
-      "title": "Onexus",
-      "description": "Plateforme de gestion et d'optimisation des processus d'entreprise.",
-      "technologies": ["React", "TypeScript", "Node.js", "MongoDB"],
-      "images": [
-        "/images/onexus/onexus_1.PNG",
-        "/images/onexus/onexus_2.PNG",
-        "/images/onexus/onexus_3.PNG"
-      ],
-      "liveUrl": "https://onexus.com",
-      "githubUrl": "https://github.com/username/onexus",
-      "featured": true
-    },
-    {
       "id": "10",
       "title": "Mianava",
-      "description": "Application de gestion immobilière et de location de biens.",
-      "technologies": ["React", "Node.js", "PostgreSQL", "Stripe"],
+      "description": "This is an e-commerce site for the sale of beauty products. registration, purchase, payment....",
+      "technologies": ["NextJs", "Node.js", "Stripe"],
       "images": [
         "/images/mianava/mianava_1.PNG",
         "/images/mianava/mianava_2.PNG",
         "/images/mianava/mianava_3.PNG",
         "/images/mianava/mianava_4.PNG"
       ],
-      "liveUrl": "https://mianava.com",
+      "liveUrl": "",
       "githubUrl": "https://github.com/username/mianava",
       "featured": true
     }
